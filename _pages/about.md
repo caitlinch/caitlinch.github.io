@@ -10,7 +10,7 @@ redirect_from:
 Hi! I'm Caitlin. I'm a computational biologist specialising in systematic bias
 in phylogenetic methods.
 
-I completed my PhD in phylogenetics in December 2025, at the Australian National 
+I completed my PhD in phylogenetics in December 2024, at the Australian National 
 University, Canberra. 
 
 In my spare time I enjoy baking, sewing, embroidery, and walking in nature.

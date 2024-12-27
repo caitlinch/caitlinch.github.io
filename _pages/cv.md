@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-  * Doctor of Philosophy, Biology 2025 (expected)
+  * Doctor of Philosophy, Biology 2025 (expected conferral)
       * __The Australian National University, Canberra__
       * Thesis: _“Systematic bias in phylogenetic methods: investigating the 
       adequacy of the treelikeness assumption”_
