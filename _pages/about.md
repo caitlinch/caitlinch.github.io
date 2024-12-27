@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Caitlin Cherryh, a doctoral candidate at the Australian National University.
+Hi! I'm Caitlin. I'm a computational biologist specialising in systematic bias
+in phylogenetic methods.
 
-This website is a work in progress.
+I completed my PhD in phylogenetics in December 2025, at the Australian National 
+University, Canberra. 
+
 

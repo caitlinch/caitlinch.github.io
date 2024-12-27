@@ -1,0 +1,23 @@
+---
+title: "Systematic bias in phylogenetic methods: investigating the adequacy of the treelikeness assumption"
+collection: publications
+category: thesis
+permalink: /publication/2024-phd_thesis
+excerpt: 'This thesis shows the diverse impacts of the treelikeness assumption on phylogenetic inference and suggest that treelikeness should be considered during phylogenetic tree inference.'
+date: 2024-12-16
+venue: 'ANU Open Research Repository'
+paperurl: 'https://doi.org/10.25911/GKN2-9F44'
+citation: 'Caitlin Cherryh 2024. Systematic bias in phylogenetic methods: investigating the adequacy of the treelikeness assumption. PhD thesis. Australian National University. Available at https://doi.org/10.25911/GKN2-9F44'
+---
+
+'One assumption incorporated into many phylogenetic methods is the treelikeness assumption, which states that each site in an alignment shares an identical evolutionary history, which fits a single bifurcating tree. However, treelikeness is violated by biological processes such as introgression, hybridisation, and incomplete lineage sorting. This has the potential to reduce the accuracy of phylogenetic inference, potentially resulting in inaccurate trees and impacting downstream analyses.
+
+In Chapter One, I perform a comprehensive benchmarking of tests for treelikeness. Various test statistics to quantify the treelikeness of an alignment have been proposed, but to my knowledge there has been no systematic comparison of the behaviour of these tests under controlled conditions with gradated treelikeness. I also introduce a new test statistic for quantifying treelikeness, which I call the tree proportion, along with a parametric bootstrap to assess the statistical significance of test statistic results for empirical datasets. I found three test statistics performed well when considering behaviour under both simulation schemes, underlying methodology, and existing implementations: the delta plot (Holland 2002), site concordance factors (Minh 2020, Mo 2023) and my new test tree proportion. 
+
+In Chapter Two, I explored the impacts of intra-locus recombination on phylogenetic tree accuracy. Intra-locus recombination violates the treelikeness assumption, but is known to occur frequently within empirical sequence alignments. I applied 3 existing tests for recombination to each locus from 4 empirical sequence alignments, and constructed ""clean"" subsets of loci for each alignment by excluding all putatively-recombinant loci. In general, trees estimated from clean datasets using concatenation methods were similar or identical to trees estimated from the unfiltered dataset, providing that there were sufficient loci. However, under summary methods, I identified several statistically significant and biologically meaningful differences between trees estimated from the clean and unfiltered datasets. 
+
+In Chapter Three, I extend the treelikeness assumption by allowing a single multiple sequence alignment to have multiple distinct evolutionary histories. The metazoan tree is an unsolved and contentious problem in phylogenetics. This chapter assesses whether a single tree is adequate to represent the evolutionary history of the Metazoa. I used the Mixtures Across Sites and Trees (MAST) model (Wong et al. 2024), a multitree mixture model which uses mixtures of bifurcating trees with independent models of evolution to represent the evolutionary histories within a dataset. I applied the MAST model with 4 classes of substitution models to 14 empirical phylogenetic datasets previously used to estimate the relationships between metazoan clades. I found that multi-tree models were overwhelmingly preferred (46/54 analyses). These results suggest that using current phylogenetic models, a single bifurcating tree is insufficient to describe the complex evolutionary history of Metazoa. 
+
+In Chapter Four, I extended my analyses from Chapter Three to investigate the causes of conflicting signal within metazoan datasets using concordance factors. I took 12 datasets previously used to estimate the metazoan phylogeny, and estimated species trees and gene trees with a concatenated model, partitioned model, and C60 model. I then examined the variation in phylogenetic signal using gene and quartet concordance factors. I found substantial conflicting phylogenetic signal within the published empirical datasets. My results suggest widespread incomplete lineage sorting contributes to the difficulty of resolving deep nodes within the metazoan phylogeny. 
+
+Together, these chapters show the diverse impacts of the treelikeness assumption on phylogenetic inference and suggest that treelikeness should be considered during phylogenetic tree inference.'
