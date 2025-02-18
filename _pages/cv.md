@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-  * Doctor of Philosophy, Biology 2025 (expected conferral)
+  * Doctor of Philosophy, Biology - January 2025
       * __The Australian National University, Canberra__
       * Thesis: _“Systematic bias in phylogenetic methods: investigating the 
       adequacy of the treelikeness assumption”_
       * Supervised by Dr. Robert Lanfear, with Dr. Minh Bui, Dr. Maja Adamska, 
       and Dr. Barbara Holland
       * Research areas: phylogenetics, evolutionary biology, bioinformatics
-  * Bachelor of Science (Honours, First Class) 2018
+  * Bachelor of Science (Honours, First Class) - November 2018
       * __The Australian National University, Canberra__
       * Honours thesis: _“Detecting introgression in multiple sequence 
       alignments: a new test for quantifying treelikeness”_
@@ -51,7 +51,7 @@ Work experience
       * Adjusted existing R and Bash scripts for use on high performance 
       computing servers
 
-* __Research Assistant__ (Climate modelling): 12/2017 - 11/2017 
+* __Research Assistant__ (Climate modelling): 11/2017 - 11/2017 
   * _Australian National Wildlife Collection, CSIRO_
   * Duties included: 
       * Used daily climate data and niche modelling software to model 
