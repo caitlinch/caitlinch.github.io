@@ -28,7 +28,17 @@ Education
 
 Work experience
 ======
-* __Research Officer__ (R package development): 26/08/2024 - present
+
+* __Bioinformatician__ (Genome assembly and analysis): 27/05/2024 - present
+  * _National Collections and Marine Infrastructure, CSIRO_
+  * Duties included: 
+      * Developed Snakemake pipeline from existing BASH and SLURM scripts
+      * Designed robust and rigorous Snakemake pipeline for diverse analyses and datasets
+      * Wrote clear and thorough documentation for users
+      * Adjusted existing R and Bash scripts for use on high performance 
+      computing servers
+
+* __Research Officer__ (R package development): 26/08/2024 - 20/02/2025
   * _National Centre for Epidemiology and Population Health, ANU_
   * Developer of R package [PoolTestR](https://github.com/AngusMcLure/PoolTestR)
   and Shiny app [PoolTools](https://github.com/AngusMcLure/PoolTools)
@@ -41,15 +51,6 @@ Work experience
       * Developed and implemented new features to facilitate checking the
       formatting of user datasets (and test for common errors present within
       user datasets).
-
-* __Bioinformatician__ (Genome assembly and analysis): 27/05/2024 - present
-  * _National Collections and Marine Infrastructure, CSIRO_
-  * Duties included: 
-      * Developed Snakemake pipeline from existing BASH and SLURM scripts
-      * Structured Snakemake pipeline to meet diverse end user analyses
-      * Documented methods and approach for end users
-      * Adjusted existing R and Bash scripts for use on high performance 
-      computing servers
 
 * __Research Assistant__ (Climate modelling): 11/2017 - 11/2017 
   * _Australian National Wildlife Collection, CSIRO_
